@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|c:\\users\\anuva\\source\\repos\\banktransactions\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|c:\\users\\anuva\\source\\repos\\banktransactions\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|c:\\users\\anuva\\source\\repos\\banktransactions\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|solutionrelative:views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|c:\\users\\anuva\\source\\repos\\banktransactions\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|c:\\users\\anuva\\source\\repos\\banktransactions\\views\\transactions\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|solutionrelative:views\\transactions\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|c:\\users\\anuva\\source\\repos\\banktransactions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA608FF-040C-4F54-9CA8-4E29C819A0D4}|BankTransactions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-16T15:26:27.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T13:34:28.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T13:08:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Views\\Transactions\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transactions\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Views\\Transactions\\AddOrEdit.cshtml",
+              "RelativeToolTip": "Views\\Transactions\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T13:03:17.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:29:43.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Anuva\\source\\repos\\BankTransactions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:10:48.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
